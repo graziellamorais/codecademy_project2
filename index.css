@@ -1,0 +1,74 @@
+.header h1 {
+    background-image: url(./assets/image1.webp);
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+.brushes h2 {
+    background-color: mediumspringgreen;
+    font-size: 32px;
+    font-weight: bold;
+    font-family: Helvetica;
+    color: white;
+}
+
+.brushes h3 {
+    font-family: Helvetica;
+}
+
+.brushes p {
+    text-align: left;
+}
+
+.brushes span {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+.frames h2 {
+    background-color: lightcoral;
+    font-size: 32px;
+    font-weight: bold;
+    font-family: Helvetica;
+    color: white;
+}
+
+.frames h3 {
+    font-family: Helvetica;
+}
+
+.frames p {
+    text-align: left;
+}
+
+.frames span {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+.paint h2 {
+    background-color: skyblue;
+    font-size: 32px;
+    font-weight: bold;
+    font-family: Helvetica;
+    color: white;
+}
+
+.paint h3 {
+    font-family: Helvetica;
+}
+
+.paint p {
+    text-align: left;
+}
+
+.paint span {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
